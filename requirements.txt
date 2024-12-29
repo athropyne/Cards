@@ -1,0 +1,11 @@
+fastapi[standard]
+sqlalchemy
+psycopg[binary]
+redis
+python-dotenv
+pydantic-settings
+faststream[redis]
+elasticsearch[async]
+pymongo
+beanie
+aiosqlite
